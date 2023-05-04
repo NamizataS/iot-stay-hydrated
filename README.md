@@ -13,15 +13,15 @@ There are two sensors in the bottle:
 - At the bottom of the bottle, there's a pressure sensor which weights the amount of water left every 5 minutes or after the incline sensor gets back to it's original position. 
 
 ## Components
-- Arduino Uno R3
+### Arduino Uno R3
 ![Arduino](images/arduino_uno_r3.png)
-- Tilt sensor SW200D
+### Tilt sensor SW200D
 ![Titl_sensor](images/tilt_sensor.png)
-- Force sensor FSR02
+### Force sensor FSR02
 ![Force_sensor](images/force_sensor.png)
-- Resistor
+### Resistor
 ![Resistor](images/resistor.png)
-- Breadboard
+### Breadboard
 ![Breadboard](images/breadboard.png)
 
 In our circuits, we use components which will not be necessary when we will actually build the product. The components are the following:
